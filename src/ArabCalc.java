@@ -1,4 +1,4 @@
-public class ArabCalc {
+ class ArabCalc {
     protected int operand1;
     protected int operand2;
     protected String operation;

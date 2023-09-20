@@ -1,4 +1,4 @@
-public enum RomeNum {
+enum RomeNum {
     I,
     II,
     III,

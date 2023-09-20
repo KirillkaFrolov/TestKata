@@ -1,4 +1,4 @@
-public class RomeCalc extends ArabCalc{
+class RomeCalc extends ArabCalc{
     public RomeCalc(RomeNum o1, RomeNum o2, String operation) {
         super(o1.ordinal()+1, o2.ordinal()+1, operation);
 

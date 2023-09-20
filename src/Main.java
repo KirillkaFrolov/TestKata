@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+ public class Main {
 
     public static String calc(String input) throws Exception{
         ArabCalc calc;
